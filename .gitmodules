@@ -1,0 +1,6 @@
+[submodule "configs/DankMaterialShell/plugins/acerSense"]
+	path = configs/DankMaterialShell/plugins/acerSense
+	url = https://github.com/raphamzn/dms-acer-sense
+[submodule "configs/DankMaterialShell/plugins/.repos/0026f1eba8dedaec"]
+	path = configs/DankMaterialShell/plugins/.repos/0026f1eba8dedaec
+	url = https://github.com/AvengeMedia/dms-plugins
